@@ -78,8 +78,8 @@ genre    : Romance · Dark Romance · Sejarah · Filosofi
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=EmilieRochefort125&show_icons=true&theme=tokyonight&hide_border=true&title_color=C9973A&icon_color=C9973A&text_color=E8E6DF&bg_color=111110" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilieRochefort125&layout=compact&theme=tokyonight&hide_border=true&title_color=C9973A&text_color=E8E6DF&bg_color=111110" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EmilieRochefort125&show_icons=true&theme=tokyonight&hide_border=true&title_color=C9973A&icon_color=C9973A&text_color=E8E6DF&bg_color=111110" />
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EmilieRochefort125&layout=compact&theme=tokyonight&hide_border=true&title_color=C9973A&text_color=E8E6DF&bg_color=111110" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=EmilieRochefort125&theme=react-dark&hide_border=true&color=C9973A&line=C9973A&point=E8B96A" />
 
